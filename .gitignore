@@ -112,3 +112,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# data- no data is to be stored in git. the link is provided in the git redme
+data/*
+
